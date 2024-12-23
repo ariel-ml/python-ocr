@@ -1,0 +1,7 @@
+numpy==1.24.3
+opencv-python-headless==4.8.1.78
+matplotlib==3.8.3
+pillow==11.0.0
+easyocr==1.7.2
+pytesseract==0.3.10
+paddleocr==2.9.1
